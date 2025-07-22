@@ -14,12 +14,12 @@
 
   <name>OpenID4Java API</name>
   <description>This plugin provides a shared dependency on the openid4java library so that other plugins can co-operate when using this library.</description>
-  <url>http://wiki.jenkins-ci.org/display/JENKINS/OpenID4Java+Plugin</url>
+  <url>https://wiki.jenkins-ci.org/display/JENKINS/OpenID4Java+Plugin</url>
 
   <licenses>
     <license>
       <name>The MIT license</name>
-      <url>http://www.opensource.org/licenses/mit-license.php</url>
+      <url>https://www.opensource.org/licenses/mit-license.php</url>
       <distribution>repo</distribution>
     </license>
   </licenses>
@@ -41,7 +41,7 @@
   <scm>
     <connection>scm:git:git://github.com/jenkinsci/openid4java-plugin.git</connection>
     <developerConnection>scm:git:git@github.com:jenkinsci/openid4java-plugin.git</developerConnection>
-    <url>http://github.com/jenkinsci/openid4java-plugin</url>
+    <url>https://github.com/jenkinsci/openid4java-plugin</url>
     <tag>HEAD</tag>
   </scm>
 
@@ -54,14 +54,14 @@
   <repositories>
        <repository>
            <id>repo.jenkins-ci.org</id>
-           <url>http://repo.jenkins-ci.org/public/</url>
+           <url>https://repo.jenkins-ci.org/public/</url>
        </repository>
    </repositories>
 
    <pluginRepositories>
        <pluginRepository>
            <id>repo.jenkins-ci.org</id>
-           <url>http://repo.jenkins-ci.org/public/</url>
+           <url>https://repo.jenkins-ci.org/public/</url>
        </pluginRepository>
    </pluginRepositories>
 
